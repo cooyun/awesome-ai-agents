@@ -1289,6 +1289,7 @@ Build-your-own
 
 </details>
 
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
@@ -1309,6 +1310,26 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 - [Dave Brewster - LinkedIn](https://www.linkedin.com/in/dave-brewster-first/)
 - [Ravi Ramachandran - LinkedIn](https://www.linkedin.com/in/ravi-nextlevelgtm/)
 - [Luke Lalor - LinkedIn](https://www.linkedin.com/in/lukehlalor/)
+
+</details>
+
+## [Etuki FinOps MCP](https://www.etuki.com/)
+Open-source AI FinOps MCP server, prompt-cache optimizer, and browser-local LLM bill auditor
+
+<details>
+
+### Category
+Developer tools, Cost optimization, MCP server, Observability & FinOps
+
+### Description
+- Etuki FinOps MCP is an open-source, read-only Model Context Protocol (MCP) server and CLI that helps AI coding agents cut multi-turn API costs by up to 76% without degrading output quality.
+- Includes a 100% browser-local CSV/JSON bill auditor (zero server uploads), real-time calibrated rate cards for 563+ LLM & cloud models, 4-breakpoint prompt cache calculators, error-immune build log folding, and a GitHub Actions PR cost-regression gate.
+
+### Links
+- [Web](https://www.etuki.com/)
+- [GitHub](https://github.com/cooyun/etuki-gate)
+- [npm](https://www.npmjs.com/package/etuki-finops-mcp)
+- [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.cooyun%2Fetuki-finops-mcp/versions/latest)
 
 </details>
 
